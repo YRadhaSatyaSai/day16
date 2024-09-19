@@ -1,0 +1,44 @@
+*{
+    color: antiquewhite;
+}
+.radha{
+    width: 0; 
+    height: 0; 
+    border-left: 62px solid transparent;
+    border-right: 62px solid transparent;
+    margin: 0px 70px;
+    border-bottom: 62px solid black;
+}
+.satya{
+    width: 120px;
+    height: 120px;
+    border:2px solid rgb(117, 0, 128);
+    margin:20px 70px; 
+    background-color: cyan;
+}
+.sai{
+    width: 0; 
+  height: 0; 
+  border-left: 62px solid transparent;
+  border-right: 62px solid transparent;
+  margin: 0px 70px;
+  border-top: 62px solid #f00;
+}
+.bunny{
+    width: 0; 
+  height: 0; 
+  border-top: 62px solid transparent;
+  border-bottom: 62px solid transparent;
+  margin: -205px 213px;
+  border-left: 62px solid green;
+}
+.chitti{
+    width: 0; 
+  height: 0; 
+  border-top: 62px solid transparent;
+  border-bottom: 62px solid transparent; 
+  margin:80px -10px;
+  border-right:62px solid blue; 
+}
+
+
